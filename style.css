@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+body{
+font-family:"Open+Sans+Condensed";
+}
+#top{
+border-top: 8px solid #e84c89;
+background-color:#5f5556;
+color:#5f5556;
+height:30px;
+line-height:30px;
+}
+#top span.contact{
+background-color:#e84c89;
+display:block;
+height:30px;
+width:200px;
+float:right;
+text-align:center;
+}
+#nav{
+background-color:#5f5556;
+color:#fff;
+height:70px;
+}
+#nav h1{
+color:#fff;
+font-size:40px;
+line-height:40px;
+padding:0 15px 15px;
+margin:0;
+}
+footer#footer{
+background-color:#5f5556;
+color:#eee;
+border-top: 8px solid #a6a2a3;
+}
+footer#footer h4.subtitle{
+color:#e84c89;
+}
+footer#footer div.footer-navi{
+background-color:#a6a2a3;
+padding:20px;
+}
